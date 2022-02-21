@@ -1,3 +1,4 @@
 module.exports = {
-    secret: "azerty123"
-  };
+  secret: "azerty123"
+};
+  //just a message to delete (github test);
